@@ -76,16 +76,17 @@ footer {
     padding: 1.2rem;
     border-radius: 1rem;
 }
-.para{
+
+.para {
     margin-bottom: 1.5rem;
     font-size: 19px;
 }
-.new{
+
+.new {
     border-color: #6366F1;
-    border:1px solid purple;
+    border: 1px solid purple;
     border-radius: 1rem;
-    padding:0.5rem;
+    padding: 0.5rem;
     text-decoration: none;
     color: black
-
 }
